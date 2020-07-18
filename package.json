@@ -33,7 +33,7 @@
     "express-request-id": "^1.4.1",
     "fs-readfile-promise": "^3.0.1",
     "json-key-validate": "^1.0.2",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.19",
     "mongodb": "^3.3.3",
     "mustache": "^3.0.1",
     "object-hash": "^2.0.0",
